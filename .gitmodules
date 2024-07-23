@@ -10,6 +10,3 @@
 [submodule "Ecommerce_API_Rest"]
 	path = Ecommerce_API_Rest
 	url = https://github.com/ValentinAlvarez-Portfolio/Ecommerce_API_Express.js
-[submodule "ecommerce_microservices"]
-	path = ecommerce_microservices
-	url = https://github.com/Nest-Microservices-ValentinAlvarez98/app-launcher
