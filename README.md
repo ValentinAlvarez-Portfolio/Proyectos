@@ -1,6 +1,6 @@
 # Portafolio de Proyectos
 
-Bienvenido a mi portafolio de proyectos. En este repositorio encontrarás una colección de mis proyectos más destacables, cada uno con una breve descripción y un enlace al despliegue. Cada proyecto está incluido como un submódulo, con la intención de facilitar la navegación entre ellos y clonación de los mismos.
+Bienvenido a mi portafolio de proyectos. En este repositorio encontrarás una colección de los proyectos que creo más destacables, cada uno con una breve descripción y un enlace al despliegue. Cada proyecto está incluido como un submódulo, con la intención de facilitar la navegación entre ellos y clonación de los mismos.
 
 ## Tabla de Contenidos
 
