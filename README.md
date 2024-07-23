@@ -4,8 +4,8 @@ Bienvenido a mi portafolio de proyectos. En este repositorio encontrarás una co
 
 ## Tabla de Contenidos
 
-- [Portal El Día - HTML](#portal-el-dia)
-- [Banifox Copycat - JavaScript](#copycat-banifox)
+- [Portal El Día - HTML](#portal-el-día)
+- [Banifox Copycat - JavaScript](#banifox-copycat)
 - [Bunker PhoneShop - React.js](#bunker-phoneshop)
 - [Ecommerce API Rest - Express.js](#ecommerce-api-rest)
 - [EasyClick - React.js, Express.js](#easy-click)
