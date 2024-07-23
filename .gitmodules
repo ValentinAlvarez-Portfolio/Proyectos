@@ -1,0 +1,12 @@
+[submodule "Portal_El_Dia"]
+	path = Portal_El_Dia
+	url = https://github.com/ValentinAlvarez-Portfolio/Portal_El_Dia
+[submodule "Banifox_Copycat"]
+	path = Banifox_Copycat
+	url = https://github.com/ValentinAlvarez-Portfolio/Banifox_Copycat
+[submodule "Bunker_PhoneShop"]
+	path = Bunker_PhoneShop
+	url = https://github.com/ValentinAlvarez-Portfolio/Bunker_PhoneShop
+[submodule "Ecommerce_API_Rest"]
+	path = Ecommerce_API_Rest
+	url = https://github.com/ValentinAlvarez-Portfolio/Ecommerce_API_Express.js

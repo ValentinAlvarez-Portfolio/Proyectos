@@ -1,11 +1,11 @@
 # Portafolio de Proyectos
 
-Bienvenido a mi portafolio de proyectos. Acá encontrarás una colección de mis trabajos más importantes, cada uno con una breve descripción y un enlace al despliegue. Cada proyecto está incluido como un submódulo, con la intención de facilitar la navegación entre ellos y clonación de los mismos.
+Bienvenido a mi portafolio de proyectos. En este repositorio encontrarás una colección de mis proyectos más destacables, cada uno con una breve descripción y un enlace al despliegue. Cada proyecto está incluido como un submódulo, con la intención de facilitar la navegación entre ellos y clonación de los mismos.
 
 ## Tabla de Contenidos
 
 - [Portal El Día - HTML](#portal-el-dia)
-- [Copycat Banifox - JavaScript](#copycat-banifox)
+- [Banifox Copycat - JavaScript](#copycat-banifox)
 - [Bunker PhoneShop - React.js](#bunker-phoneshop)
 - [Ecommerce API Rest - Express.js](#ecommerce-api-rest)
 - [EasyClick - React.js, Express.js](#easy-click)
@@ -13,6 +13,8 @@ Bienvenido a mi portafolio de proyectos. Acá encontrarás una colección de mis
 - [Ecommerce Microservices - Nest.js](#ecommerce-microservices)
 - [Cómo clonar este repositorio](#cómo-clonar-este-repositorio)
 - [Contacto](#contacto)
+
+---
 
 ## Portal El Día
 
@@ -30,7 +32,7 @@ Breve descripción del proyecto.
 
 ---
 
-## Copycat Banifox
+## Banifox Copycat
 
 ### Descripción
 
@@ -75,6 +77,8 @@ En el caso de ya tener el repositorio clonado, puedes utilizar este comando para
 ```bash
 git submodule update --remote
 ```
+
+---
 
 ## Contacto
 
