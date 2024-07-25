@@ -7,9 +7,9 @@
 [submodule "Bunker_PhoneShop"]
 	path = Bunker_PhoneShop
 	url = https://github.com/ValentinAlvarez-Portfolio/Bunker_PhoneShop
-[submodule "Ecommerce_API_Rest"]
-	path = Ecommerce_API_Rest
-	url = https://github.com/ValentinAlvarez-Portfolio/Ecommerce_API_Express.js
 [submodule "Ecommerce_Microservices"]
 	path = Ecommerce_Microservices
 	url = https://github.com/Nest-Microservices-ValentinAlvarez98/app-launcher
+[submodule "Express.js_Ecommerce_API"]
+	path = Express.js_Ecommerce_API
+	url = https://github.com/ValentinAlvarez-Portfolio/Express.js_Ecommerce_API
