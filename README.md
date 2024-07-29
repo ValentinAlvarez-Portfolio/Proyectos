@@ -124,7 +124,7 @@ Aún en desarrollo, repositorio privado y enlace de deploy de demo.
 
 Aplicación de gestión de stock de insumos para la empresa Exhibirte, desarrollada con Next.js para el front-end y Nest.js para el back-end.
 
-Aún en desarrollo y repositorio es privado.
+Aún en desarrollo, repositorio privado y enlace de deploy de demo.
 
 ### Enlace al Deploy de demostración
 
