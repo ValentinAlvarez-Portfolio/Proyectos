@@ -9,6 +9,7 @@ Bienvenido a mi portafolio de proyectos. En este repositorio encontrarás una co
 - [Ecommerce API Rest - Express.js](#ecommerce-api-rest)
 - [Bunker PhoneShop - React.js](#bunker-phoneshop)
 - [Ecommerce Microservices - Nest.js](#ecommerce-microservices)
+- [EasyClick - Express.js](#easyclick)
 - [Gestor de stock - Nest.js](#gestor-de-stock)
 - [Cómo clonar este repositorio](#cómo-clonar-este-repositorio)
 - [Contacto](#contacto)
