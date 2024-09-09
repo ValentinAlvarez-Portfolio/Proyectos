@@ -13,3 +13,6 @@
 [submodule "Express.js_Ecommerce_API"]
 	path = Express.js_Ecommerce_API
 	url = https://github.com/ValentinAlvarez-Portfolio/Express.js_Ecommerce_API
+[submodule "Gestor_stock"]
+	path = Gestor_stock
+	url = https://github.com/GestorDeStock/gestor-app-launcher

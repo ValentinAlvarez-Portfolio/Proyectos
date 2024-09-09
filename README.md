@@ -102,6 +102,22 @@ Importante: En el readme del repositorio se encuentran las instrucciones de cóm
 
 ---
 
+## Gestor de stock
+
+### Descripción
+
+Proyecto de desarrollo de microservicios para gestión de stock de insumos y productos desarrollado con Typescript y Nest.js, utilizando NATS server, Docker, PostgreSQL, MongoDB y Kubernetes.
+
+Aún en desarrollo.
+
+Importante: En el readme del repositorio se encuentran las instrucciones de cómo clonar el repositorio y lanzar la aplicación con todos los microservicios y sus bases de datos.
+
+### Repositorio
+
+[Repositorio del proyecto](https://github.com/GestorDeStock/gestor-app-launcher)
+
+---
+
 # Proyectos profesionales
 
 ## EasyClick
@@ -115,20 +131,6 @@ Aún en desarrollo, repositorio privado y enlace de deploy de demo.
 ### Enlace al Deploy de demostración
 
 [Visitar Demo](https://testdeployfront-production.up.railway.app/#/)
-
----
-
-## Gestor de stock
-
-### Descripción
-
-Aplicación de gestión de stock de insumos para la empresa Exhibirte, desarrollada con Next.js para el front-end y Nest.js para el back-end.
-
-Aún en desarrollo, repositorio privado y enlace de deploy de demo.
-
-### Enlace al Deploy de demostración
-
-[Visitar Demo](https://demo-gestorstock.up.railway.app//)
 
 ---
 
